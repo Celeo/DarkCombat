@@ -1,0 +1,10 @@
+name: DarkCombat
+main: net.thedarktide.darkcombat.bukkit.DarkCombatPlugin
+version: 1.5.5.4
+website: www.thedarktide.net
+description: The plugin that controls the PvP combat model for DarkTide.
+authors: [Atomjay, Xolsom, SquallSeeD31, noahgolm, Celeo, KingHarper]
+commands:
+    effects:
+        description: Lists combat effects
+        usage: /<command> <player>
